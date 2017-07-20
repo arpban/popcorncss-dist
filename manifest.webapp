@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "Popcorn css",
+  "launch_path": "/index.html",
+  "description": "PopcornCss is a collection of reusable web components. Here you can find web components like drawers, spinners, navbars etc and use them to create something beautiful.",
+  "icons": {
+    "128": "/images/touch/icon-128x128.png"
+  },
+  "developer": {
+    "name": "arpit bansal",
+    "url": "https://twitter.com/arp_ban"
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "default_locale": "en",
+  "permissions": {
+  },
+  "locales": {
+    "en": {
+      "name": "Popcorn css",
+      "description": "PopcornCss is a collection of reusable web components. Here you can find web components like drawers, spinners, navbars etc and use them to create something beautiful."
+    }
+  }
+}
