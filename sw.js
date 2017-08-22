@@ -1,5 +1,5 @@
-let CACHE_NAME = 'my-site-cache-v2';
-let cacheWhitelist = ['my-site-cache-v2'];
+let CACHE_NAME = 'my-site-cache-3';
+let cacheWhitelist = ['my-site-cache-v3'];
 let urlsToCache = [
 	'/',
 	'/css/main.css',
